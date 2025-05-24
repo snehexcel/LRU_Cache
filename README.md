@@ -81,7 +81,7 @@ int main() {
 
 ## 👨‍💻 Author
 
-**Deepanshu** - [GitHub Profile]([https://github.com/deepanshuu2002](https://github.com/snehexcel/LRU_Cache))
+**Sneha** - [GitHub Profile]([https://github.com/snehexcel/LRU_Cache])
 
 ---
 
